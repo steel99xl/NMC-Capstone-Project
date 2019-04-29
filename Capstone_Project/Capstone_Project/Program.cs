@@ -11,7 +11,7 @@ namespace Capstone_Project
         /// <summary>
         /// Asingment Capstone_Project NMC CIT 110
         /// By steel99xl
-        /// GtiHub : https://github.com/steel99xl
+        /// GtiHub : https://github.com/steel99xl/NMC-Capstone-Project
         /// </summary>
         static public TcpClient client = null;
        static  public NetworkStream stream = null;
@@ -38,8 +38,9 @@ namespace Capstone_Project
 
             Console.Write("Do you want this instane to send or recive messages? : ");
             string userInput = Console.ReadLine();
-            if (userInput.ToUpper() == "SEND" || userInput.ToUpper() == "SENDER")
+            if (userInput.ToUpper() == "SEND")
             {
+                Console.WriteLine("TEST");
                 running = false;
                 Recive();
                 sendThread.Start();
@@ -89,7 +90,6 @@ namespace Capstone_Project
                 responseData = System.Text.Encoding.ASCII.GetString(data, 0, bytes);
                 Console.WriteLine(responseData);
 
-                Messanger();
             } while (running);
         }
 
