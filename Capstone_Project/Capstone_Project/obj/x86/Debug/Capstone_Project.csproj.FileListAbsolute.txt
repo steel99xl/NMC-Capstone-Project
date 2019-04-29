@@ -1,0 +1,6 @@
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_13/Capstone_Project/Capstone_Project/bin/Debug/Capstone_Project.exe
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_13/Capstone_Project/Capstone_Project/bin/Debug/Capstone_Project.pdb
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_13/Capstone_Project/Capstone_Project/obj/x86/Debug/Capstone_Project.csprojAssemblyReference.cache
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_13/Capstone_Project/Capstone_Project/obj/x86/Debug/Capstone_Project.csproj.CoreCompileInputs.cache
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_13/Capstone_Project/Capstone_Project/obj/x86/Debug/Capstone_Project.exe
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_13/Capstone_Project/Capstone_Project/obj/x86/Debug/Capstone_Project.pdb
